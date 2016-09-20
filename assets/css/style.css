@@ -560,11 +560,8 @@ textarea.form-control {
 
 .side-image {
 	position: absolute;
-	background: url(../images/temp.jpg) scroll center no-repeat;
-	-webkit-background-size: cover;
-	   -moz-background-size: cover;
-		 -o-background-size: cover;
-			background-size: cover;
+	background: url(../images/neena5c.jpg) scroll center no-repeat;
+	background-size:580px;	
 	height: 100%;
 	margin-left:75px
 }
